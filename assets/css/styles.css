@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 340; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+  --hue-color: 234; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 50%, 60%);
@@ -283,7 +283,7 @@ nav__logo:hover {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 230px;
 }
 
 .home__data {
