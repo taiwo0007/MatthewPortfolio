@@ -1,0 +1,3 @@
+# Netlify redirects. The blog moved to /posts; keep old links working.
+/blog      /posts          301
+/blog/*    /posts/:splat   301
